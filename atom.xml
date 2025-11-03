@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ddddszr.github.io</id>
+    <title>雪夜闻钟</title>
+    <updated>2025-11-03T23:56:04.399Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ddddszr.github.io"/>
+    <link rel="self" href="https://ddddszr.github.io/atom.xml"/>
+    <logo>https://ddddszr.github.io/images/avatar.png</logo>
+    <icon>https://ddddszr.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 雪夜闻钟</rights>
+</feed>
